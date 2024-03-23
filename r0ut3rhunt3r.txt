@@ -1,0 +1,298 @@
+2013-10-01 16:57:03,018 ERROR Error 100, could not open URL
+2013-10-01 16:57:38,500 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-01 16:57:38,500 ERROR Changing pw from: goatsrevil
+ to: remembertheywillctheseb4connecting
+
+2013-10-01 16:57:44,421 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-01 16:57:44,422 ERROR Changing pw from: goatsrevil
+ to: remembertheywillctheseb4connecting
+
+2013-10-01 16:58:23,346 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-01 16:58:23,346 ERROR Changing pw from: goatsrevil
+ to: remembertheywillctheseb4connecting
+
+2013-10-01 17:02:33,839 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-01 17:02:33,839 ERROR Changing pw from: goatsrevil
+ to: remembertheywill
+
+2013-10-01 17:03:09,001 ERROR found: B8:8D:12:1F:68:D8
+2013-10-01 17:03:09,001 ERROR Changing pw from: goatsrevil
+ to: remembertheywill
+
+2013-10-05 12:00:18,454 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:00:37,745 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:00:37,745 ERROR Changing pw from: goatsrevil
+ to: remembertheywill
+
+2013-10-05 12:00:55,611 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:00:55,612 ERROR Changing pw from: goatsrevil
+ to: remembertheywill
+
+2013-10-05 12:01:20,115 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:01:20,116 ERROR Changing pw from: goatsrevil
+ to: remembertheywill
+
+2013-10-05 12:02:15,761 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:02:15,762 ERROR Changing pw from: goatsrevil
+ to: remembertheywill
+
+2013-10-05 12:02:21,602 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:02:21,603 ERROR Changing pw from: goatsrevil
+ to: remembertheywill
+
+2013-10-05 12:02:56,089 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:02:56,090 ERROR Changing pw from: goatsrevil
+ to: remembertheywill
+
+2013-10-05 12:03:02,779 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:03:02,779 ERROR Changing pw from: goatsrevil
+ to: remembertheywill
+
+2013-10-05 12:16:11,217 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:16:11,217 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 12:16:25,680 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-05 12:16:25,681 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 18:04:44,843 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 18:04:47,235 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 18:04:47,979 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 18:04:48,649 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 18:04:51,278 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 18:05:00,139 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 18:05:00,613 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 18:05:01,308 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 18:05:03,138 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-05 23:57:42,216 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-06 00:03:03,664 ERROR Changing pw from: willcthese
+ to: wantthatmac!
+
+2013-10-06 00:04:06,479 ERROR Changing pw from: wantthatmac!
+ to: easyeasy1
+
+2013-10-06 00:04:10,266 ERROR Changing pw from: easyeasy1
+ to: easyeasy2
+
+2013-10-06 00:04:11,541 ERROR Changing pw from: easyeasy2
+ to: beesscareme
+
+2013-10-06 00:04:12,444 ERROR Changing pw from: beesscareme
+ to: donttrustgoats
+2013-10-06 00:04:13,343 ERROR Changing pw from: donttrustgoats
+ to: zebrahunter
+
+2013-10-06 00:04:14,153 ERROR Changing pw from: zebrahunter
+ to: goatsrevil
+
+2013-10-06 00:04:14,960 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-06 00:04:15,714 ERROR Changing pw from: willcthese
+ to: wantthatmac!
+
+2013-10-06 00:04:17,292 ERROR Changing pw from: wantthatmac!
+ to: easyeasy1
+
+2013-10-06 00:05:26,764 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-06 00:05:26,764 ERROR Changing pw from: easyeasy1
+ to: easyeasy2
+
+2013-10-06 00:05:52,016 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-06 00:05:52,017 ERROR Changing pw from: easyeasy2
+ to: beesscareme
+
+2013-10-06 00:06:24,567 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-06 00:06:24,568 ERROR Changing pw from: beesscareme
+ to: donttrustgoats
+2013-10-06 00:06:46,119 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-06 00:06:46,119 ERROR Changing pw from: donttrustgoats
+ to: zebrahunter
+
+2013-10-06 14:55:23,955 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-06 14:55:23,956 ERROR Changing pw from: zebrahunter
+ to: goatsrevil
+
+2013-10-06 14:55:38,045 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-06 14:55:38,045 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-06 14:55:49,221 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-06 14:55:49,222 ERROR Changing pw from: willcthese
+ to: wantthatmac!
+
+2013-10-13 21:09:48,472 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 21:09:48,478 ERROR Changing pw from: wantthatmac!
+ to: easyeasy1
+
+2013-10-13 21:10:19,124 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 21:10:19,124 ERROR Changing pw from: easyeasy1
+ to: easyeasy2
+
+2013-10-13 21:11:52,581 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 21:11:52,581 ERROR Changing pw from: easyeasy2
+ to: beesscareme
+
+2013-10-13 21:12:16,101 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 21:12:16,102 ERROR Changing pw from: beesscareme
+ to: donttrustgoats
+2013-10-13 21:18:47,864 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 21:18:47,865 ERROR Changing pw from: donttrustgoats
+ to: zebrahunter
+
+2013-10-13 21:20:45,143 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 21:20:45,146 ERROR Changing pw from: zebrahunter
+ to: goatsrevil
+
+2013-10-13 21:21:31,867 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 21:21:31,868 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-13 21:21:39,281 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 21:21:39,282 ERROR Changing pw from: willcthese
+ to: wantthatmac!
+
+2013-10-13 21:23:22,904 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 21:23:22,907 ERROR Changing pw from: wantthatmac!
+ to: easyeasy1
+
+2013-10-13 23:13:55,625 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:13:55,629 ERROR Changing pw from: easyeasy1
+ to: easyeasy2
+
+2013-10-13 23:17:21,287 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:17:21,291 ERROR Changing pw from: easyeasy2
+ to: beesscareme
+
+2013-10-13 23:27:59,388 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:27:59,391 ERROR Changing pw from: beesscareme
+ to: donttrustgoats
+2013-10-13 23:28:18,037 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:28:18,040 ERROR Changing pw from: donttrustgoats
+ to: zebrahunter
+
+2013-10-13 23:28:54,935 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:28:54,938 ERROR Changing pw from: zebrahunter
+ to: goatsrevil
+
+2013-10-13 23:39:01,273 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:39:01,276 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-13 23:40:59,621 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:40:59,625 ERROR Changing pw from: willcthese
+ to: wantthatmac!
+
+2013-10-13 23:41:17,668 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:41:17,671 ERROR Changing pw from: wantthatmac!
+ to: easyeasy1
+
+2013-10-13 23:41:33,185 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:41:33,188 ERROR Changing pw from: easyeasy1
+ to: easyeasy2
+
+2013-10-13 23:42:13,702 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:42:13,706 ERROR Changing pw from: easyeasy2
+ to: beesscareme
+
+2013-10-13 23:42:28,719 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:42:28,722 ERROR Changing pw from: beesscareme
+ to: donttrustgoats
+2013-10-13 23:42:49,691 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-13 23:42:49,694 ERROR Changing pw from: donttrustgoats
+ to: zebrahunter
+
+2013-10-14 00:11:04,229 ERROR Changing pw from: zebrahunter
+ to: goatsrevil
+
+2013-10-14 00:15:18,800 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-14 00:15:28,795 ERROR Changing pw from: willcthese
+ to: wantthatmac!
+
+2013-10-14 00:18:39,277 ERROR Changing pw from: wantthatmac!
+ to: easyeasy1
+
+2013-10-14 00:19:02,698 ERROR Changing pw from: easyeasy1
+ to: easyeasy2
+
+2013-10-14 20:18:39,844 ERROR found: 
+2013-10-14 20:18:39,851 ERROR Changing pw from: easyeasy2
+ to: beesscareme
+
+2013-10-14 20:18:45,461 ERROR found: 
+2013-10-14 20:18:45,462 ERROR Changing pw from: beesscareme
+ to: donttrustgoats
+2013-10-14 20:18:51,225 ERROR found: 
+2013-10-14 20:18:51,226 ERROR Changing pw from: donttrustgoats
+ to: zebrahunter
+
+2013-10-14 21:08:53,659 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:08:53,661 ERROR Changing pw from: zebrahunter
+ to: goatsrevil
+
+2013-10-14 21:11:31,989 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:11:31,990 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-14 21:32:32,182 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:32:32,183 ERROR Changing pw from: willcthese
+ to: wantthatmac!
+
+2013-10-14 21:33:40,467 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:33:40,468 ERROR Changing pw from: wantthatmac!
+ to: easyeasy1
+
+2013-10-14 21:34:51,440 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:34:51,441 ERROR Changing pw from: easyeasy1
+ to: easyeasy2
+
+2013-10-14 21:35:25,737 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:35:25,738 ERROR Changing pw from: easyeasy2
+ to: beesscareme
+
+2013-10-14 21:36:47,256 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:36:47,257 ERROR Changing pw from: beesscareme
+ to: donttrustgoats
+2013-10-14 21:38:09,340 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:38:09,341 ERROR Changing pw from: donttrustgoats
+ to: zebrahunter
+
+2013-10-14 21:38:45,094 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:38:45,095 ERROR Changing pw from: zebrahunter
+ to: goatsrevil
+
+2013-10-14 21:39:30,419 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:39:30,420 ERROR Changing pw from: goatsrevil
+ to: willcthese
+
+2013-10-14 21:52:24,242 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:52:24,243 ERROR Changing pw from: willcthese
+ to: wantthatmac!
+
+2013-10-14 21:54:25,649 ERROR found: 88:32:9B:7B:A2:D4
+2013-10-14 21:54:25,650 ERROR Changing pw from: wantthatmac!
+ to: easyeasy1
+
